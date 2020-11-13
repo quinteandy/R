@@ -13,6 +13,8 @@ output:
 
 ## Load libraries
 
+## testing r
+
 ```{r}
 library(dplyr, warn.conflicts = FALSE) # suppress conflicts warning
 options(dplyr.summarise.inform = FALSE) # Suppress summarise info
